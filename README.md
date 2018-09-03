@@ -2,10 +2,10 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>HTML basics</title>
+        <title>Star Sisters</title>
     </head>
     <body>
-
+        <h1>Star Sisters</h1>
 
     </body>
 </html>
